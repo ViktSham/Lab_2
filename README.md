@@ -17,4 +17,4 @@
 
 3) ТАБЛИЦА ДЛЯ ПУНКТА 5
 
-![Image alt](https://github.com/ViktSham/Lab_2/blob/master/Tas.PNG?raw=true)
+![Image alt](https://github.com/ViktSham/Lab_2/blob/master/Task_5a.PNG?raw=true)
