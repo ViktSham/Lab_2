@@ -13,7 +13,7 @@
 
 2) ТАБЛИЦА ДЛЯ ПУНКТА 4
 
-![Image alt](https://github.com/ViktSham/Lab_2/blob/master/Task_4а.PNG?raw=true)
+![Image alt](https://github.com/ViktSham/Lab_2/blob/master/Task_4a.PNG?raw=true)
 
 3) ТАБЛИЦА ДЛЯ ПУНКТА 5
 
